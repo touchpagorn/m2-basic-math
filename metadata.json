@@ -1,0 +1,6 @@
+{
+  "name": "Grade 8 Decimals & Fractions Practice",
+  "description": "Interactive mathematics practice and lessons for Grade 8 students covering fractions, decimals, recurring decimals, and pattern recognition in English and Thai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
